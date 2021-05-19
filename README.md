@@ -8,7 +8,7 @@
 𝗜'𝗺 [Killerjet101](https://github.com/BestLeaks)！Im a coder and entertainer. I love to make Discord Bot's like [Suicide Prevention Bot](https://spbot.ml/)
 
 
-![Killerjet101's github stats](https://github-readme-stats.vercel.app/api?username=Killerjet101&show_icons=true&theme=radical)
+![Killerjet101's github stats](https://github-readme-stats.vercel.app/api?username=Killerjet101&count_private=true&show_icons=true&theme=monokai)
 
 ## 🧐 About
 
