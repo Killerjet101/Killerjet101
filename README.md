@@ -5,7 +5,7 @@
 
 ![times my profile was visited](https://visitor-badge.laobi.icu/badge?page_id=Killerjet101)
 
-𝗜'𝗺 [Killerjet101](https://github.com/BestLeaks)！Im a coder and entertainer. I love to make Discord Bot's like [Suicide Prevention Bot](https://spbot.ml/)
+𝗜'𝗺 [Killerjet101](https://github.com/BestLeaks)！Im a coder and entertainer. I love to make Discord Bot's like [Suicide Prevention Bot](https://spbot.ml/) and [Xalima](https://xalima.gq)
 
 
 
