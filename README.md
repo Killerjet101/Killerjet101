@@ -7,7 +7,7 @@
 ![](https://discord-md-badge.vercel.app/api/shield/224207524411211777?style=flat-square)
 
 
-𝗜'𝗺 [Killerjet101](https://github.com/BestLeaks)！Im a coder and entertainer. I love to make Discord Bot's like [Suicide Prevention Bot](https://spbot.ml/) and [Xalima](https://xalima.gq)
+I'm [Killerjet101](https://github.com/BestLeaks)！I'm a coder and entertainer. I love to make Discord Bot's like [Suicide Prevention Bot](https://spbot.ml/) and [Xalima](https://xalima.gq)
 
 
 
